@@ -1,0 +1,10 @@
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\bin\Debug\Triphenylphosphine.exe
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\bin\Debug\Triphenylphosphine.pdb
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.csproj.AssemblyReference.cache
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.Form1.resources
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.Form2.resources
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.Properties.Resources.resources
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.csproj.GenerateResource.cache
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.csproj.CoreCompileInputs.cache
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.exe
+C:\Users\tanne\source\repos\Triphenylphosphine\Triphenylphosphine\obj\Debug\Triphenylphosphine.pdb
