@@ -1403,7 +1403,7 @@ int yMask);
 					if (handle != IntPtr.Zero)
 					{
 						Random r = new Random();
-						SetWindowText(process.MainWindowHandle, "ico.exe");
+						SetWindowText(process.MainWindowHandle, "tpl.exe");
 						Thread.Sleep(100);
 						//
 					}
@@ -1423,7 +1423,7 @@ int yMask);
 			try
 			{
 				Random r = new Random();
-				var chars = "ico ";
+				var chars = "tpl ";
 				var stringChars = new char[1];
 				var random = new Random();
 
